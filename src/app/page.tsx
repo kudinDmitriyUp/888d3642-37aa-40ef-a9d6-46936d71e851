@@ -106,7 +106,7 @@ export default function LandingPage() {
               id: "iceland",
               title: "Iceland",
               description: "Waterfalls, geysers, black sand beaches, and northern lights. Nature's most dramatic playground.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32SiMkwDFagCJqdtr8SgryeO9Cj/uploaded-1765894606220-suhddemr.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32SiMkwDFagCJqdtr8SgryeO9Cj/uploaded-1765895032284-ct6mfnlg.jpg",
               imageAlt: "Iceland waterfall"
             },
             {
