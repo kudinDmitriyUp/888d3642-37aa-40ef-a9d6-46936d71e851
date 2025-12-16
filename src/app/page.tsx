@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import NavbarStyleFullscreen from '@/components/navbar/NavbarStyleFullscreen/NavbarStyleFullscreen';
 import HeroOverlay from '@/components/sections/hero/HeroOverlay';
